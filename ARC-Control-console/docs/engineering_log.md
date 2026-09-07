@@ -108,3 +108,19 @@ The LCD contrast potentiometer was later reused for analog input, requiring a se
 
 \- Functions help separate system behaviors from the main loop
 
+
+Button stayed LOW
+→ traced to breadboard row connectivity
+
+Potentiometer stuck at 1023
+→ loose jumper connection
+
+LCD contrast/display debugging
+→ tested VO and verified LCD operation
+
+Arduino upload communication issue
+→ isolated Arduino from external circuit during diagnosis
+
+Loose LCD connections
+→ learned importance of reliable physical connections
+

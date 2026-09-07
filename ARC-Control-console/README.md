@@ -2,7 +2,9 @@
 
 
 
-An Arduino-based interactive control system combining user input, analog sensing, PWM lighting, LCD feedback, and audio alerts.
+My first integrated embedded-systems project, combining user input,
+
+analog sensing, PWM control, LCD output, LEDs, and audio feedback.
 
 
 
@@ -10,71 +12,25 @@ An Arduino-based interactive control system combining user input, analog sensing
 
 
 
-\- Push-button system ON/OFF toggle
+\- Push-button system toggle
 
-\- 16x2 LCD status display
+\- 16x2 LCD system status display
 
-\- Potentiometer-based power control
+\- Potentiometer-controlled power level
 
 \- PWM LED brightness control
 
-\- Status LED
+\- System status LED
 
-\- Startup and shutdown buzzer tones
+\- Startup and shutdown audio sequences
 
-\- Standby and online operating states
-
-
-
-\## Hardware
+\- Edge-detection button handling
 
 
 
-\- Arduino Uno
-
-\- 16x2 LCD
-
-\- Potentiometer
-
-\- Push button
-
-\- 2 LEDs
-
-\- Piezo buzzer
-
-\- Breadboard
-
-\- Resistors
-
-\- Jumper wires
+\## Status
 
 
 
-\## Current Status
-
-
-
-In development.
-
-
-
-\## Skills Practiced
-
-
-
-\- Arduino C++
-
-\- Digital input/output
-
-\- Analog input
-
-\- PWM
-
-\- State control
-
-\- Edge detection
-
-\- LCD interfacing
-
-\- Basic debugging
+✅ Project complete
 
